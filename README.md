@@ -77,3 +77,4 @@ Dynamic insights for improved decision-making
 🚀 Conclusion
 
 This project delivers clear insights into hospitality performance and helps identify opportunities to improve occupancy, customer satisfaction, and revenue efficiency.
+project link:https://app.powerbi.com/view?r=eyJrIjoiODc1ZDZiOGEtYTdkYy00NDBjLThhZWItYmQ2MGQ5ZDM1OWNiIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
